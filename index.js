@@ -7,4 +7,5 @@ const main = () => {
   log.warn("unreasonably simple");
   funcion()
 }
+
 main();
