@@ -7,5 +7,6 @@ const main = () => {
   log.warn("unreasonably simple");
   funcion()
   cursoGit()
+  cursoPrueba()
 }
 main();
