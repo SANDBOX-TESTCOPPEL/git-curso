@@ -8,5 +8,6 @@ const main = () => {
   funcion()
   cursoGit()
   cursoPrueba()
+  cursoCAG4()
 }
 main();
