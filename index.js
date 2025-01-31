@@ -9,5 +9,6 @@ const main = () => {
   cursoGit()
   cursoPrueba()
   cursoCAG4()
+  cursoCAG5()
 }
 main();
