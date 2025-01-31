@@ -10,5 +10,6 @@ const main = () => {
   cursoPrueba()
   cursoCAG4()
   cursoCAG5()
+  cursoCAG6()
 }
 main();
