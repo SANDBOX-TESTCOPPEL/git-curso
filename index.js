@@ -11,5 +11,6 @@ const main = () => {
   cursoCAG4()
   cursoCAG5()
   cursoCAG6()
+  console.log('Alan Castro')
 }
 main();
