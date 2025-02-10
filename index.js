@@ -12,5 +12,6 @@ const main = () => {
   cursoCAG5()
   cursoCAG6()
   cursoCapacitacionRonda2()
+  cursoGITRonda2()
 }
 main();
