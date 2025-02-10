@@ -6,5 +6,6 @@ const main = () => {
   console.log('Inicio 21/01/2025')
   log.warn("unreasonably simple");
   funcion()
+  cursoCapacitacionRonda2()
 }
 main();
