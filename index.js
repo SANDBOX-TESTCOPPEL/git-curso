@@ -6,5 +6,12 @@ const main = () => {
   console.log('Inicio 21/01/2025')
   log.warn("unreasonably simple");
   funcion()
+  cursoGit()
+  cursoPrueba()
+  cursoCAG4()
+  cursoCAG5()
+  cursoCAG6()
+  cursoCapacitacionRonda2()
+  cursoGITRonda2()
 }
 main();
