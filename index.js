@@ -13,5 +13,6 @@ const main = () => {
   cursoCAG6()
   cursoCapacitacionRonda2()
   cursoGITRonda2()
+  cursoPruebaGit2()
 }
 main();
