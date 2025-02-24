@@ -14,5 +14,6 @@ const main = () => {
   cursoCapacitacionRonda2()
   cursoGITRonda2()
   cursoGitRonda3()
+  cursoGitCap4()
 }
 main();
