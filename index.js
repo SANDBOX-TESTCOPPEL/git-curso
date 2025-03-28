@@ -6,6 +6,7 @@ const main = () => {
   console.log('Inicio 21/01/2025')
   log.warn("unreasonably simple");
   funcion()
+  cursoGit()
   funcionGitCapacitacion()
   cursoGit()
   cursoPrueba()
