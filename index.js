@@ -7,5 +7,15 @@ const main = () => {
   log.warn("unreasonably simple");
   funcion()
   cursoGit()
+  funcionGitCapacitacion()
+  cursoGit()
+  cursoPrueba()
+  cursoCAG4()
+  cursoCAG5()
+  cursoCAG6()
+  cursoCapacitacionRonda2()
+  cursoGITRonda2()
+  cursoGitRonda3()
+  funcionPruebaCapacitacionDos()
 }
 main();
