@@ -15,5 +15,6 @@ const main = () => {
   cursoCapacitacionRonda2()
   cursoGITRonda2()
   cursoGitRonda3()
+  funcionPruebaCapacitacionDos()
 }
 main();
